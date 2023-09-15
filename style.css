@@ -141,9 +141,9 @@ span {
 
 
 #msg-container {
-  height: 85%;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  height: 70vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
   margin-right: 20px;
   border-radius: 10px;
   background-color: #ffffff;
